@@ -12,4 +12,4 @@ Das Programm kann mit einem beliebigen Compiler einfach kompiliert werden. Ich h
 Beispiel: 
 ```
 gcc main.c -o main.elf
-```1
+```
