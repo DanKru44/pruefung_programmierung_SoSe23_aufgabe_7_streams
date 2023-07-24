@@ -15,7 +15,7 @@ gcc main.c -o main.elf
 ```
 
 ## Ausführung 
-Um das Programm auszuführen muss zur Anweisung das Programm auszuführen noch die zu bearbeitende Datei angehängt werden. Diese sollte 20 Zeichen enthalten. Als Beispiel kann die hier im Repo enthaltende Text.txt verwendt werden. 
+Um das Programm auszuführen muss zur Anweisung das Programm auszuführen noch die zu bearbeitende Datei angehängt werden. Diese sollte 20 Zeichen enthalten. Als Beispiel kann die hier im Repo enthaltende Text.txt verwendet werden. 
 
 Beispiel:
 ```
