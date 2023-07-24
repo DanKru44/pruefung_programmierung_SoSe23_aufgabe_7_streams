@@ -3,6 +3,8 @@ In diesem Repo befindet sich das Programm das in Aufgabe 7 der Ausarbeitung die 
 
 In diesem Programm wird beispielhaft die Nutzung von filestreams dargestellt um in eine Datei zu schreiben und aus dieser zu lesen. Dabei wir aus der Text aus der Text.txt Datei über einen Stream gelesen und ins Terminal geprintet. Anschließend werden die Zeichen in umgekehrter Reihenfolge in einen Buffer und dann in der Datei an den bereits vorhandenen Text angehängt.
 
+Bei dem erstellten Programm wurde sich an dem Beispiel Programm aus der Vorlesung orientier. In diesem wurde ebenfalls eine Zeichenkette eingelsen und rückwärts in eine weitere Datei geschrieben.
+
 ## Editor 
 Das Programm wurde in der WSL mit dem Editor vim geschrieben.
 
